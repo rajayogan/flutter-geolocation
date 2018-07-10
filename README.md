@@ -1,8 +1,8 @@
-# geolocate_leaflet
+# Geolocation with leaflet maps
 
-A new Flutter project.
+A simple app to demonstrate geolocation with leaflet maps.
 
-## Getting Started
+## For further details
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Screencast - https://youtu.be/I3bhRb6f5dA
+Article - http://tphangout.com/flutter-maps-and-markers/
